@@ -34,7 +34,7 @@ LOOP SINGOLA RUN
 ├── Mago mira con aim-star → cast magia elemento (Q/W/E/R)
 ├── Truppe evocate all'aim-star → auto-aggro area
 ├── Kill → drop Anime (upgrade immediato) + Oro (spendibile in-run)
-├── EXP da kill → Level Up → scegli 1 perk tra 3 casuali per elemento
+├── EXP da kill → Level Up → scegli 1 perk tra 3 casuali (da qualsiasi dei 4 elementi)
 ├── Ogni 60s: intensità ondate scala
 ├── Ogni 3 min: "Corrupted Night" 30s (spawn x3, drop x2)
 ├── Ogni 10 livelli mago: mini-boss con HP bar
@@ -57,6 +57,7 @@ LOOP SINGOLA RUN
 ### Aim-Star
 - Cursore magico libero su tutta la mappa
 - Raggio minimo: appena fuori dal cerchio rosso (non può mirare dentro la torre)
+- Raggio massimo: illimitato — può mirare ai bordi mappa
 - Nessun auto-lock — skill del giocatore nel posizionarlo
 
 ---
@@ -122,7 +123,7 @@ TIPI NEMICI (con sprite disponibili)
 ### Truppe (costo Oro, evocate all'aim-star)
 | Truppa | Comportamento | Unlock |
 |--------|--------------|--------|
-| Orc alleato | Melee, si posiziona all'aim-star, aggro area automatico | Base |
+| Orc alleato | Melee, si posiziona all'aim-star, aggro area automatico; se l'area si svuota si riposiziona verso il nemico più vicino | Base |
 | Arciere | Ranged fisso, attacca nel suo raggio | Meta |
 | Golem di Terra | Tank lento, blocca fisicamente il passaggio | Meta |
 
