@@ -1,0 +1,11 @@
+Use the most recently shown mage sprite sheet as the visual reference and keep the exact same character identity, palette, robe design, staff design, orb style, and pixel-art rendering.
+
+Create a pixel-art RPG sprite sheet with exactly 2 rows and 2 columns (4 equal cells), no visible grid lines, no text, no labels. View is top-down/isometric RPG style. This is a walk-left animation: the mage moves toward the left side of the screen and faces left in a readable 3/4-left orientation.
+
+Keep staff in one hand and glowing violet orb in the other hand in all frames. Maintain same proportions, silhouette family, and pixel scale across all 4 frames.
+
+Frame order left-to-right then next row: frame 1 neutral left-facing contact, frame 2 left step stride, frame 3 neutral passing with robe sway, frame 4 opposite step stride, seamless loop back to frame 1.
+
+Strict containment: full character, staff, crystal tip, orb glow, robe edges, and all effects must remain fully inside each cell with visible magenta margins; nothing may cross cell edges.
+
+Background must be 100% solid flat #FF00FF only, no gradients, no transparency in raw image, no UI, no borders, no background shadows.

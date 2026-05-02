@@ -1,0 +1,11 @@
+Use the image shown immediately before this request as the visual reference for the exact same character identity, palette, costume, staff design, and orb style.
+
+Create a pixel-art RPG sprite sheet with exactly 2 rows and 2 columns (4 equal cells), no visible grid lines, no text, no labels. View is top-down isometric 3/4 from behind: the mage is seen from the back, walking upward toward the top of the screen (walk up animation).
+
+Character constraints: same hooded red-purple robe with gold trim, same staff in one hand with blue crystal tip, same glowing violet magic orb in the other hand, same proportions and silhouette family, same pixel scale in every frame. Keep the face mostly hidden since the character is turned away.
+
+Animation order left-to-right then next row: frame 1 neutral back-facing contact, frame 2 left step up, frame 3 neutral passing with cloak sway, frame 4 right step up, seamless loop back to frame 1.
+
+Strict containment: full character, staff, crystal tip, orb glow, robe hem, and all effects must stay fully inside each cell with clear magenta margin on all sides; nothing may cross frame edges.
+
+Background must be 100% solid flat #FF00FF only. No gradients, no transparency in raw image, no UI, no borders, no shadows on background.

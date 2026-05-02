@@ -1,0 +1,155 @@
+{
+  "target": "asset",
+  "mode": "cast",
+  "prompt": "",
+  "role": "",
+  "input": "C:\\Users\\mikbio\\Desktop\\sprite_gen\\mage_raise_staff_orb_glow_2x2\\raw-sheet.png",
+  "threshold": 100,
+  "edge_threshold": 150,
+  "duration": 130,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 128,
+  "fit_scale": 0.78,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 6,
+  "min_component_area": 1,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "mage_raise_staff_orb_glow-1",
+    "mage_raise_staff_orb_glow-2",
+    "mage_raise_staff_orb_glow-3",
+    "mage_raise_staff_orb_glow-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "component_mode": "all",
+      "component_count": 10,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        232,
+        194,
+        464,
+        483
+      ],
+      "edge_touch": false,
+      "output_size": [
+        58,
+        72
+      ],
+      "paste_position": [
+        35,
+        42
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        627,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "all",
+      "component_count": 13,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        167,
+        137,
+        387,
+        483
+      ],
+      "edge_touch": false,
+      "output_size": [
+        55,
+        86
+      ],
+      "paste_position": [
+        36,
+        28
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        627,
+        1254
+      ],
+      "component_mode": "all",
+      "component_count": 14,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        260,
+        63,
+        464,
+        445
+      ],
+      "edge_touch": false,
+      "output_size": [
+        51,
+        95
+      ],
+      "paste_position": [
+        38,
+        19
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        627,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "all",
+      "component_count": 13,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        183,
+        47,
+        388,
+        445
+      ],
+      "edge_touch": false,
+      "output_size": [
+        51,
+        99
+      ],
+      "paste_position": [
+        38,
+        15
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

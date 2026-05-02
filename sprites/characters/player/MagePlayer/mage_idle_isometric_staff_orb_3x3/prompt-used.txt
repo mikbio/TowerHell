@@ -1,0 +1,9 @@
+Use the character reference image shown earlier as a visual inspiration for silhouette readability and warm fantasy robe styling, but create an original character design. Use the layout guide image shown earlier as a layout-only reference: use it only for exact 3x3 slot geometry, centering, spacing, and safe padding; do not reproduce guide lines, boxes, labels, borders, or guide colors.
+
+Create a pixel-art RPG sprite animation sheet: exactly 3 rows by 3 columns (9 equal cells), no visible grid lines, no text. View is isometric top-down (3/4 from slightly above). Subject: an original young arcane mage inspired by tabletop fantasy mages and wizard-academy vibes, hooded robe with trim, belt pouches, boots, subtle arcane insignia, face partly visible under hood. In one hand the mage firmly holds a carved wooden staff topped with a small crystal. In the other hand the mage holds a glowing magic orb (blue-violet arcane glow, not fire). Keep both staff and orb present in all frames.
+
+Animation is an idle loop across 9 frames read left-to-right, top-to-bottom: subtle breathing, cloak sway, tiny weight shifts, slight staff tilt, orb pulse and soft flicker, then return to initial pose for seamless loop. Keep the same character identity, same proportions, same bounding box, same pixel scale in every frame.
+
+Strict containment: the entire mage, staff, crystal tip, orb glow, robe edges, and all effects must stay fully inside each cell with visible magenta margin on all sides; nothing may cross cell edges.
+
+Background must be 100% solid flat #FF00FF only, with no gradients, no transparency, no shadows on background, no UI, no labels.

@@ -1,0 +1,15 @@
+Use the mage sheet shown immediately before this prompt as exact visual reference (same character, robe, staff, gem, orb, and pixel-art style).
+
+Create a 2x2 pixel-art blink/teleport animation sheet (4 equal cells), no grid lines, no text, no labels. View is isometric/top-down 3/4 front.
+
+Sequence left-to-right then next row:
+1) idle stance,
+2) mage raises the staff with the tip/gem pointing upward,
+3) blink start: body dissolves into small arcane particles/light streaks,
+4) teleport end: mage has disappeared (only a tiny fading residue/spark ring remains near feet and a faint orb sparkle).
+
+Keep this simple and readable. Staff is clearly raised upward before disappearance. No large explosions. Keep effects compact.
+
+Containment rule: everything must stay inside each cell with clear magenta margins, nothing touching edges.
+
+Background must be 100% solid #FF00FF, no gradients, no transparency in raw image, no UI.

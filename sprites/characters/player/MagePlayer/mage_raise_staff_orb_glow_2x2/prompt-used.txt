@@ -1,0 +1,7 @@
+Same mage and same 2x2 animation as previous image, but with larger safe margins.
+
+Create a simple 2x2 pixel-art sheet on solid #FF00FF: idle -> start raising staff -> staff raised high with gem tip toward top of screen -> hold raised pose while orb glows brighter.
+
+Keep staff vertical/upward-oriented and keep the full character smaller in each cell (about 50-55% occupancy) so nothing touches edges. Keep orb in the other hand. No extra effects besides orb brightening and tiny gem shimmer.
+
+No text, no grid, no UI, no gradients.
